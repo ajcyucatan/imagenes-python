@@ -1,0 +1,6 @@
+jupyterlab
+unidecode
+numpy
+scipy
+matplotlib
+skimage
