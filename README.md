@@ -5,7 +5,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/ajcyucatan/imagenes-python?style=popout-square)](https://github.com/ajcyucatan/imagenes-python/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/ajcyucatan/imagenes-python?style=popout-square)](https://github.com/ajcyucatan/imagenes-python/pull)
 
-Fundamentos de Procesamiento Digital de Imágenes con Python, apoyándonos principalmente con el módulo de Scikit-Image. Este taller fue impartido durante el primer DevDay Mérida, celebrado en Julio 2019.
+Fundamentos de procesamiento digital de imágenes con Python, apoyándonos principalmente con el módulo de Scikit-Image. Este taller fue impartido durante el primer DevDay Mérida, celebrado en Julio 2019.
 
 
 ### Instalación
