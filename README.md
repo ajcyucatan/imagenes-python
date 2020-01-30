@@ -5,7 +5,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/ajcyucatan/imagenes-python?style=popout-square)](https://github.com/ajcyucatan/imagenes-python/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/ajcyucatan/imagenes-python?style=popout-square)](https://github.com/ajcyucatan/imagenes-python/pull)
 
-Fundamentos de procesamiento digital de imágenes con Python, apoyándonos principalmente con el módulo de Scikit-Image. Este taller fue impartido durante el primer DevDay Mérida, celebrado en Julio 2019.
+Fundamentos de procesamiento digital de imágenes con Python, apoyándonos principalmente con el módulo de Scikit-Image. Este taller fue estrenado durante el primer DevDay Mérida, celebrado en Julio 2019.
 
 
 ### Instalación
@@ -17,8 +17,8 @@ Puedes ejecutar el material del taller en la nube o en tu misma computadora:
 
 | Herramienta          | Instrucción        |
 | ------------- |:-------------:|
-| [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ajcyucatan/fisica-python) | Haz clic en esta insignia para abrir los archivos a través de los servidores de Google Colaborator |
-| [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ajcyucatan/fisica-python/master) | Alternativamente, haz clic en esta insignia para abrirlos con Binder |
+| [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ajcyucatan/imagenes-python) | Haz clic en esta insignia para abrir los archivos a través de los servidores de Google Colaborator |
+| [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ajcyucatan/imagene-python/master) | Alternativamente, haz clic en esta insignia para abrirlos con Binder |
 
 Después, sólo ejecuta la primera celda que tiene algún comando que llama a `install.sh` para que se configure todo automáticamente.
 
