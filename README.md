@@ -5,7 +5,7 @@
 [![Slideshow](https://img.shields.io/badge/view-slides-important?style=popout-square)](https://github.com/ajcyucatan/imagenes-python/blob/master/notes/slides.pdf "Slideshow")
 [![Binder](https://img.shields.io/badge/launch-binder-9cf?style=popout-square)](https://mybinder.org/v2/gh/ajcyucatan/imagenes-python/master "Binder")
 
-> [Rodolfo E. Escobar U.](https://github.com/rescurib) © 2019
+> © 2019, [Rodolfo E. Escobar U.](https://github.com/rescurib)
 
 Un taller sobre los fundamentos de procesamiento digital de imágenes con Python, apoyándonos principalmente con el módulo de Scikit-Image. Contenido estrenado durante el primer DevDay Mérida, celebrado en Julio 2019.
 
@@ -14,11 +14,9 @@ Un taller sobre los fundamentos de procesamiento digital de imágenes con Python
 
 Puedes ejecutar el material del taller en la nube o en tu misma computadora:
 
-
 ### En la nube
 
 ¡Haz clic en la insignia de Binder! Luego sólo corre la primera celda para que se configure todo automáticamente *out-of-the-box*.
-
 
 ### En tu computadora
 
