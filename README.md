@@ -5,7 +5,7 @@
 [![Slideshow](https://img.shields.io/badge/view-slides-00d88e?style=popout-square)](https://github.com/ajcyucatan/imagenes-python/blob/master/notes/slides.pdf "Slideshow")
 [![Binder](https://img.shields.io/badge/launch-binder-ff69b4?style=popout-square)](https://mybinder.org/v2/gh/ajcyucatan/imagenes-python/master "Binder")
 
-> © 2019, [Rodolfo E. Escobar U.](https://github.com/rescurib)
+> © 2019 [Rodolfo E. Escobar U.](https://github.com/rescurib)
 
 Un taller sobre los fundamentos de procesamiento digital de imágenes con Python, apoyándonos principalmente con el módulo de Scikit-Image. Contenido estrenado durante el primer DevDay Mérida, celebrado en Julio 2019.
 
